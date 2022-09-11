@@ -1,5 +1,5 @@
 # machine-learning-for-miner
-my machine learning abook :)
+my machine learning ebook :)
 
 ### references
 
